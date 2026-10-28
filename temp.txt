@@ -1,0 +1,4 @@
+ID|Produto|Categoria|Preco|Quantidade|Fornecedor
+2|Mouse Optico USB|Informatica|59.99|15|TecnoShop
+3|Shampoo 300ml|Higiene Pessoal|22.50|40|Beleza Pura
+4|Cafe 500g|Alimentos|18.00|25|Graos do Sul

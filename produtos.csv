@@ -1,0 +1,5 @@
+ID,Produto,Categoria,Preco,Quantidade,Fornecedor
+1,"caderno","papelaria",15.90,10,"fornecedor teste"
+2,"Rafaella","papelaria",10.00,20,"rafaella"
+3,"produto teste","teste",100.00,10,"papelaria"
+4,"Balde","Limpeza",20.00,5,"Baldeteria"
